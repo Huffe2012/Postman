@@ -1,12 +1,12 @@
 **📬 Postman API Exploration Lab**
 This lab focused on using Postman to interact with and analyze APIs. The goal was to get hands-on experience with how API requests work, how to interpret status codes, and how to read response headers and bodies.
 
-🛠️ Setup
+**🛠️ Setup**
 ✅ Downloaded Postman from postman.com
 
 ✅ Installed on a Ubuntu Linux virtual machine
 
-🔍 What I Did
+**🔍 What I Did**
 1. ✅ Tested a Successful GET Request
 Endpoint Used: https://api.github.com/
 
@@ -52,7 +52,7 @@ Expected Result: 401 Unauthorized
 <img width="1371" height="447" alt="Screenshot 2025-08-05 222923" src="https://github.com/user-attachments/assets/796fc59f-b978-47c5-a53c-abd883a36a54" />
 
 
-What Happened:
+**What Happened:**
 
 GitHub returned a 401 status code, indicating authentication is required
 
@@ -70,7 +70,7 @@ Edit
 <img width="1604" height="653" alt="Screenshot 2025-08-05 223003" src="https://github.com/user-attachments/assets/f9d3ab1b-8588-499b-89d8-65817a9a0db9" />
 
 
-This taught me that certain endpoints require either:
+**This taught me that certain endpoints require either:**
 
 Basic Auth (username/password)
 
@@ -78,7 +78,7 @@ OAuth Token
 
 Personal Access Token
 
-🧠 What I Learned
+**🧠 What I Learned**
 
 Postman makes it easy to test and analyze API requests
 
@@ -88,7 +88,7 @@ Headers provide valuable info like content type, server settings, and rate limit
 
 401 errors signal that credentials are missing or invalid — useful for learning about API authentication
 
-🛠️ Key Features of REST APIs
+**🛠️ Key Features of REST APIs**
 
 Feature	Description
 
@@ -102,7 +102,7 @@ Standard format	Most responses are returned in JSON or sometimes XML.
 
 Scalable	REST works well for web and mobile apps due to its simplicity and structure.
 
-📚 Next Steps
+**📚 Next Steps**
 In future labs, I plan to:
 
 Use POST, PUT, and DELETE methods
