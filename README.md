@@ -1,12 +1,15 @@
 **📬 Postman API Exploration Lab**
+
 This lab focused on using Postman to interact with and analyze APIs. The goal was to get hands-on experience with how API requests work, how to interpret status codes, and how to read response headers and bodies.
 
 **🛠️ Setup**
+
 ✅ Downloaded Postman from postman.com
 
 ✅ Installed on a Ubuntu Linux virtual machine
 
 **🔍 What I Did**
+
 1. ✅ Tested a Successful GET Request
 Endpoint Used: https://api.github.com/
 
